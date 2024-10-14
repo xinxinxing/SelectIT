@@ -252,7 +252,5 @@ If you find our work is useful to you, please cite our work:
 }
 ```
 
-Sorry for the misunderstanding.  As you might expect, this means that the predictive distributions predicted for different views of the instances will be aligned. We will make this more explicit. **CL is a technique that seeks to establish uniformity between the predictions of model from different perspectives on the same sentence.**
-
 
 
